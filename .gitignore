@@ -1,0 +1,7 @@
+.vs
+packages
+*.sln
+
+Example_Log4Net/*
+!Example_Log4Net/App.config
+!Example_Log4Net/Program.cs
